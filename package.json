@@ -1,0 +1,14 @@
+{
+  "name": "framer-automation",
+  "version": "1.0.0",
+  "description": "Claude Code skill pack for automated SEO article generation and Framer CMS publishing",
+  "type": "module",
+  "scripts": {
+    "setup": "echo 'Open Claude Code in this directory and run /setup'"
+  },
+  "keywords": ["framer", "cms", "seo", "claude-code", "automation"],
+  "license": "MIT",
+  "dependencies": {
+    "framer-api": "^0.1.1"
+  }
+}
