@@ -32,10 +32,14 @@ npm install
 ### 3. Get your Framer API key
 
 1. Open your Framer project in the browser
-2. Click the **gear icon** (Site Settings)
-3. Click **API** in the left sidebar
-4. Click **Generate API Key**
-5. Copy the API key and your project URL (the `.framer.website` URL, not a custom domain)
+2. Click the **gear icon** (Site Settings) in the top-right toolbar
+3. In the left sidebar, scroll down and click **API**
+4. If you don't see an API key yet, click **Generate API Key**
+5. Copy the API key — you'll need it in the next step
+
+> **Where exactly is it?** In the Framer editor, look for the gear icon (⚙️) in the top-right corner. That opens Site Settings. The **API** tab is in the left sidebar of that settings panel, near the bottom. If you don't see it, make sure you're on a Framer plan that supports CMS API access (any paid site plan).
+
+> **Project URL:** You also need your project URL. This is the `.framer.website` URL (e.g. `https://your-project.framer.website`), **not** a custom domain. You can find it in **Site Settings → General**.
 
 ### 4. Set up your environment
 
